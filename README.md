@@ -32,7 +32,8 @@ This Customer Segmentation Project aims to classify and group customers into dis
 
 # Technology Stack
 
-1. Programming Languages: Python
+1. Programming Languages: ![image](https://github.com/user-attachments/assets/f06e314b-e808-4136-ac4e-8cc421677517)
+
 2. Libraries:
 3. Data processing: ![image](https://github.com/user-attachments/assets/20cde355-d60c-4fa2-a4ce-abf1069c1816)
  ![image](https://github.com/user-attachments/assets/53d91606-bd79-4ca9-948a-c9390fd88abf)
